@@ -1,7 +1,7 @@
-# Comunidade do jogo — prévia privada
+# Krezian Chronicles — comunidade em prévia privada
 
 Este espaço reúne a proposta inicial do fórum para revisão de Ralf.
 
-**[Abrir o fórum de discussão](https://github.com/desimagine/realmweaver-community-preview/discussions)**
+**[Abrir o fórum de discussão](https://github.com/desimagine/krezian-chronicles-community/discussions)**
 
-O nome do repositório é provisório. Textos e imagens estão em revisão.
+Krezian Chronicles é o nome escolhido para esta comunidade. A prévia permanece privada; textos e imagens estão em revisão.
